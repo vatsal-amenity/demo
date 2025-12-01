@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-<h1>"Hello From Github"
 export default function TaskManager() {
   
   const [tasks, setTasks] = useState(() => {
