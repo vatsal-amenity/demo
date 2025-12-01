@@ -47,7 +47,7 @@ export default function TaskManager() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.header}>🚀 Maro Task Manager</h1>
+      <h1 style={styles.header}>My Awesome To-Do List</h1>
 
    
       <div style={styles.inputGroup}>
